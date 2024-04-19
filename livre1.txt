@@ -5,3 +5,9 @@ Livre 2 :
 -500 : Confucius et Bouddha
 -336 : Alexandre le Grand
 52 : Alésia
+
+Livre 4 :
+Les temps modernes
+1492 Vasco de Gama découvre les Indes
+1543 Copernic démontre que la terre est ronde
+1748 : Parution de L’esprit des lois (Montesquieu)
